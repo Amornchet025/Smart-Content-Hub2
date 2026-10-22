@@ -10,7 +10,7 @@
   {
     "id": 102,
     "image": "https://picsum.photos/id/48/400/300",
-    "topic": "State Management (Zustand)",
+    "topic": "State Management* (Zustand)",
     "detail": "ทางเลือกใหม่ในการจัดการ State ที่มีขนาดเล็ก รวดเร็ว และใช้งานง่ายกว่า Redux สำหรับโปรเจกต์ขนาดกลาง",
     "num_view": 560,
     "num_like": 505
