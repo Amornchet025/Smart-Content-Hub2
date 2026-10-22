@@ -4,23 +4,23 @@
     "image": "https://picsum.photos/id/20/400/300",
     "topic": "React Navigation",
     "detail": "ไลบรารียอดนิยมสำหรับการจัดการการเปลี่ยนหน้าและการนำทาง (Routing) ในแอปพลิเคชัน React Native",
-    "num_view": 5000,
-    "num_like": 1008
+    "num_view": 500,
+    "num_like": 108,
   },
   {
     "id": 102,
     "image": "https://picsum.photos/id/48/400/300",
     "topic": "State Management (Zustand)",
     "detail": "ทางเลือกใหม่ในการจัดการ State ที่มีขนาดเล็ก รวดเร็ว และใช้งานง่ายกว่า Redux สำหรับโปรเจกต์ขนาดกลาง",
-    "num_view": 2115,
-    "num_like": 1005
+    "num_view": 215,
+    "num_like": 105
   },
   {
     "id": 103,
     "image": "https://picsum.photos/id/60/400/300",
     "topic": "Expo vs React Native CLI",
     "detail": "การเปรียบเทียบข้อดีข้อเสียระหว่างการเริ่มต้นโปรเจกต์ด้วย Expo ที่สะดวก กับ CLI ที่ปรับแต่ง Native Code ได้อิสระ",
-    "num_view": 5440,
-    "num_like": 1160
+    "num_view": 540,
+    "num_like": 160
   }
 ]
