@@ -1,12 +1,12 @@
 [
- {
-    "id": 104,
-    "image": "https://picsum.photos/id/64/400/300",
-    "topic": "React Native Reanimated",
-    "detail": "ไลบรารีทรงพลังสำหรับการสร้างแอนิเมชันที่ลื่นไหลระดับ 60fps ในแอปพลิเคชัน โดยทำงานบน UI Thread โดยตรงเพื่อประสิทธิภาพสูงสุด",
-    "num_view": 420,
-    "num_like": 185
-  }
+  {
+    "id": 101,
+    "image": "https://picsum.photos/id/20/400/300",
+    "topic": "React Navigation",
+    "detail": "ไลบรารียอดนิยมสำหรับการจัดการการเปลี่ยนหน้าและการนำทาง (Routing) ในแอปพลิเคชัน React Native",
+    "num_view": 350,
+    "num_like": 128
+  },
   {
     "id": 102,
     "image": "https://picsum.photos/id/48/400/300",
