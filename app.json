@@ -1,0 +1,22 @@
+{
+  "expo": {
+    "name": "Smart Content Hub",
+    "slug": "smart-content-hub",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#152B49"
+    },
+    "android": {
+      "package": "com.example.smartcontenthub"
+    },
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.example.smartcontenthub"
+    },
+    "plugins": [
+      "expo-font"
+    ]
+  }
+}
